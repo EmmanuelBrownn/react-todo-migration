@@ -7,6 +7,11 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+/* src/index.css */
+body { margin: 0; background: #f8fafc; color: #111827; }
+input, button { font-family: inherit; }
+
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
